@@ -1,7 +1,7 @@
 ### Hello everyone!
 
-- 🔭 I’m currently working on Operating Systems implementations in C along with CUDA.
-- 🌱 I’m currently learning Machine Learning in Python.
+- 🔭 I’m currently working on Computer Graphics in Kotlin.
+- 🌱 I’m currently learning Mobile Software Development.
 - 📫 How to reach me: naramirezjim@gmail.com
 - 😄 Pronouns: she/her
 
